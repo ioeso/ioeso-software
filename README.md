@@ -18,8 +18,8 @@ For pilot chart, 2000 byte of data must be received !
 | ------------------ | ----------- | ---- | ----------------- | -------------------------------------------------------- |
 | Start              | 's'         | O    | s                 |                                                          |
 | Stop               | 'q'         | O    | q                 |                                                          |
-| Mode               | 'm'<0 or 1> | O    | m0                | 1:Oscop<br />0:LogicA                                    |
+| Mode               | 'm'<0 or 1> | O    | m0                | 1: Oscop<br />0: LogicA                                    |
 | ADC Sample Time    | 'a'<0 to 7> | O    | a0                | 0: 0.6uS<br />1:  1.2uS<br />...                         |
 | Enable Test Pulse  | 'g'         | O    | g                 |                                                          |
 | Disable Test Pulse | 'h'         | O    | h                 |                                                          |
-| Data               |             | I    | 0x00 , 0xFF , ... | uint8_t Data[2000]<br />0x00: 0 Volt<br />0xFF: 3.3 Volt |
+| Data               |             | I    | 0x00 , 0xFF , ... | uint8_t Data[2000]<br />0x00: 0.0 Volt<br />0xFF: 3.3 Volt |
