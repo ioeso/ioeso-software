@@ -9,8 +9,7 @@ IOElectro LaOs (Oscilloscope and Logic analyzer) Software for windows
 - [STM32F0](https://github.com/ioelectro/stm32f0-laos)
 
 ### Description
-It use serial port by sending and receive some command in baud rate 115200 for pilot charts.
-For pilot chart, 2000 byte of data must be received !
+It use serial port by sending and receive some command in baud rate 115200.<br>For pilot chart, 2000 byte of data must be received !
 
 ### Commands
 
