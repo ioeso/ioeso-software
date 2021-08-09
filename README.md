@@ -1,5 +1,5 @@
 # IOE LaOs
-IOElectro LaOs (Oscilloscope and Logic analyzer) Software for windows 
+IOElectro Oscilloscope and Logic analyzer Software for windows 
 
 ![IOE LaOs](https://user-images.githubusercontent.com/64005694/128669961-694f6df9-49ea-4a5c-9213-45637b15288f.jpg)
 
