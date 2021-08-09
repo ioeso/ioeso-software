@@ -4,7 +4,7 @@ IOElectro Oscilloscope and Logic analyzer Software for windows
 ![IOE LaOs](https://user-images.githubusercontent.com/64005694/128669961-694f6df9-49ea-4a5c-9213-45637b15288f.jpg)
 
 
-[**Download software**](https://github.com/ioelectro/ioe-laos/releases)
+[**Download software**](https://github.com/ioelectro/ioe-laos/releases/latest/download/IOE-LaOs.zip)
 
 ### Available hardware and firmware
 - [STM32F0](https://github.com/ioelectro/stm32f0-laos)
