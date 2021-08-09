@@ -7,7 +7,7 @@ IOElectro Oscilloscope and Logic analyzer Software for windows
 [**Download software**](https://github.com/ioelectro/ioe-laos/releases/latest/download/IOE-LaOs.zip)
 
 ### Available hardware and firmware
-- [STM32F0](https://github.com/ioelectro/stm32f0-laos)
+- [STM32F0 (firmware)](https://github.com/ioelectro/stm32f0-laos)
 
 ### Description
 It use serial port by sending and receive some command in baud rate 115200.<br>For pilot chart, 2000 byte of data must be received !
