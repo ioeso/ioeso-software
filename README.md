@@ -7,7 +7,6 @@ IOElectro Oscilloscope and Logic analyzer Software for windows
 [**Download software**](https://github.com/simple-oscilloscope/software/releases/latest/download/IOE-LaOs.zip)
 
 ### Available hardware and firmware
-- [Firmware](https://github.com/simple-oscilloscope/simple-oscilloscope-firmware)
 - [Hardware](https://github.com/simple-oscilloscope/simple-oscilloscope-hardware)
 
 ### Description
