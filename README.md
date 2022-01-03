@@ -1,4 +1,4 @@
-# IOEOS Software
+# IOESO Software
 IOElectro Simple Oscilloscope and Logic analyzer Software for windows
 
 ![IOEOS Software](https://user-images.githubusercontent.com/64005694/147914445-85ad427b-67b4-4680-9065-ab7ed308141d.jpg)
