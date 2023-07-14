@@ -1,6 +1,6 @@
 # IOESO Software
 IOElectro Simple Oscilloscope and Logic analyzer Software for windows
 
-![IOEOS Software](https://user-images.githubusercontent.com/64005694/150926286-306e5748-6de6-459c-9c0d-f35360bfefe3.jpg)
+![IOEOS Software](https://github.com/ioeso/ioeso-software/assets/64005694/badce07a-dcbe-4a9d-8547-ce3abfe0d81d)
 
-![IOEOS Logic Software](https://user-images.githubusercontent.com/64005694/150926296-a66f4122-391b-4879-928b-9cdcc150a2f2.jpg)
+![IOEOS Logic Software](https://github.com/ioeso/ioeso-software/assets/64005694/8a7640f2-4127-4de0-a364-81ff04c07127)
